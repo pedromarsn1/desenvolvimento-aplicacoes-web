@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b53c7616-c660-40f2-bea3-de5fdeca9087" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/exercicios.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/out/production/exercicios/AnimalKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/out/production/exercicios/AumentoKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/out/production/exercicios/CoordenadasKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/out/production/exercicios/ImparesKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/out/production/exercicios/ImpostoKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/out/production/exercicios/META-INF/exercicios.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/out/production/exercicios/MainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/out/production/exercicios/MediaKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/out/production/exercicios/MultiplosKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/out/production/exercicios/ParesKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/out/production/exercicios/TrianguloKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/out/production/exercicios/lanche/LancheKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/src/main/kotlin/animal/animal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/src/main/kotlin/aumentosalario/aumento.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/src/main/kotlin/coordenadas/coordenadas.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/src/main/kotlin/impares/impares.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/src/main/kotlin/impostoderenda/imposto.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/src/main/kotlin/lanche/lanche.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/src/main/kotlin/media/media.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/src/main/kotlin/multiplos/multiplos.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/src/main/kotlin/pares/pares.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades-20220905/src/main/kotlin/triangulo/triangulo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,20 +39,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "corretto-17",
-    "last_opened_file_path": "C:/Users/pedro/OneDrive/Área de Trabalho/dev-projetos/exercicios-nassau/atividade-20220912",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pedro/OneDrive/Área de Trabalho/dev-projetos/exercicios-nassau/atividade-20220912&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\pedro\OneDrive\Área de Trabalho\dev-projetos\exercicios-nassau\atividades-20220912" />
@@ -112,6 +82,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="exercicios-nassau" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="exercicios-nassau" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.Desafio1Kt (1)" />
@@ -129,6 +112,10 @@
       <option name="presentableId" value="Default" />
       <updated>1662769709203</updated>
       <workItem from="1662769710956" duration="1067000" />
+      <workItem from="1662775107218" duration="294000" />
+      <workItem from="1662902711489" duration="47000" />
+      <workItem from="1662902778151" duration="607000" />
+      <workItem from="1662907047285" duration="119000" />
     </task>
     <servers />
   </component>
